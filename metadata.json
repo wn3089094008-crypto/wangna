@@ -1,0 +1,8 @@
+{
+  "name": "智设AI社工辅助平台",
+  "description": "面向一线社会工作者的专业AI辅助工具，提供需求评估、个案记录、服务方案、情感回应、伦理判断及政策查询等功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
